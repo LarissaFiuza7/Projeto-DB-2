@@ -24,7 +24,8 @@ Este projeto simula um sistema de gestão de um Diretório Acadêmico universit�
 
 ## Modelo RelacionaL na 3FN
 
-![image](https://github.com/user-attachments/assets/6d157d4b-aed4-445c-8089-06edc6aac948)
+![image](https://github.com/user-attachments/assets/3c643327-d1ad-459b-b7fe-948b62e11507)
+
 
 
 ```mermaid
